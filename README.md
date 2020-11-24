@@ -26,4 +26,6 @@ OMDb (Open Movie Database)'s API Key. A freemium service. Their Plans listed bel
 
 Visit http://omdbapi.com
 
-Source code (Written in NodeJS) will be available soon (when we complete our project) at @dcdunkan 's Github account. Make sure you following it to get updates and find another useful repositories over there!
+Make sure you following @dcdunkan 's github to get updates and find another useful repositories over there!
+
+Please support me just by giving me some ⭐**Stars** and **Forks**, also **Watch** if you liked this project!
